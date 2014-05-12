@@ -184,15 +184,18 @@ body:after {
 /* =Widgets
 ----------------------------------------------- */
 
-.widget {
+.widget 
+{
 	border-bottom-color: #2980b9;
 }
 .widget th,
-.widget tfoot tr {
+.widget tfoot tr 
+{
 	background: #2980b9;
 }
 .widget th,
-.widget td {
+.widget td 
+{
 	border-bottom-color: #2980b9;
 }
 
